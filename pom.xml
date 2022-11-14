@@ -25,6 +25,22 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+<groupId>org.tweetyproject</groupId>
+<artifactId>commons</artifactId>
+<version>1.22</version>
+</dependency>
+<dependency>
+<groupId>org.tweetyproject</groupId>
+<artifactId>math</artifactId>
+<version>1.22</version>
+</dependency>
+<!--  https://mvnrepository.com/artifact/org.jgrapht/jgrapht-ext  -->
+<dependency>
+<groupId>org.jgrapht</groupId>
+<artifactId>jgrapht-ext</artifactId>
+<version>1.5.0</version>
+</dependency>
   </dependencies>
 
   <build>
